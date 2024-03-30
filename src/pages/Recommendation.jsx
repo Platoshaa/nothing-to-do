@@ -37,15 +37,6 @@ const Recommendation = () => {
               </Button>
             </>
           )}
-          {/* {task.length && skill.length ? (
-            recommended.length ? (
-              
-            ) : (
-              "LOADING..."
-            )
-          ) : (
-            "Add skills and tasks first"
-          )} */}
         </div>
       </div>
     </div>
